@@ -43,7 +43,7 @@ Currently open to **remote data analyst** and **freelance analytics/visualisatio
 
 ### 📬 Reach me
 
-- **Email**: [Email](jeremiahpprince2007@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jeremy13/)
-- **TACTIX**: [TACTIX](https://tactix-by-jeremy.streamlit.app/)
-- **Government Tracker**: [Keralam Government Tracker](https://keralam-govt-tracker.pages.dev/)
+- **Email**: jeremiahpprince2007@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/jeremy13/
+- **TACTIX**: https://tactix-by-jeremy.streamlit.app/
+- **Government Tracker**: https://keralam-govt-tracker.pages.dev/
