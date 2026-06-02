@@ -34,7 +34,7 @@ Currently open to **remote data analyst** and **freelance analytics/visualisatio
 
 ### 📊 GitHub stats
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyloll-s-projects)]
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyloll&layout=compact&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeremyloll&hide_border=true)](https://git.io/streak-stats)
