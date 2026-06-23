@@ -17,8 +17,8 @@ Currently open to **remote data analyst** and **freelance analytics/visualisatio
 
 | Project | What it does | Stack |
 |---|---|---|
-| [TACTIX](tactix-by-jeremy.streamlit.app) | Football analytics platform for the ISL | Python, Streamlit, StatsBomb, Pandas |
-| [Keralam Promise Tracker](https://jeremyloll.github.io/keralam-tracker) | Civic accountability tool tracking Kerala government promises | HTML, Cloudflare Pages, Turnstile |
+| [TACTIX](https://tactix-by-jeremy.streamlit.app/) | Football analytics platform for the ISL | Python, Streamlit, StatsBomb, Pandas |
+| [Keralam Promise Tracker](https://keralam-govt-tracker.pages.dev/) | Civic accountability tool tracking Kerala government promises | HTML, Cloudflare Pages, Turnstile |
 
 ---
 
